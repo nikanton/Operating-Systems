@@ -1,6 +1,3 @@
-//
-//  Не успел поправить ошибки, если разрешите, то к зачёту доделаю.
-//
 #include <stdlib.h>
 #include <stdio.h>
 #include <unistd.h>
